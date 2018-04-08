@@ -1,0 +1,14 @@
+D:\项目\中铁山桥\中国知网20171113\中国知网20171113\Learun.Framework V6.1\Learun.Framework.Module\Learun.Log\bin\Debug\Learun.Loger.dll
+D:\项目\中铁山桥\中国知网20171113\中国知网20171113\Learun.Framework V6.1\Learun.Framework.Module\Learun.Log\bin\Debug\Learun.Loger.pdb
+D:\项目\中铁山桥\中国知网20171113\中国知网20171113\Learun.Framework V6.1\Learun.Framework.Module\Learun.Log\bin\Debug\log4net.dll
+D:\项目\中铁山桥\中国知网20171113\中国知网20171113\Learun.Framework V6.1\Learun.Framework.Module\Learun.Log\bin\Debug\log4net.xml
+D:\项目\中铁山桥\中国知网20171113\中国知网20171113\Learun.Framework V6.1\Learun.Framework.Module\Learun.Log\obj\Debug\Learun.Loger.dll
+D:\项目\中铁山桥\中国知网20171113\中国知网20171113\Learun.Framework V6.1\Learun.Framework.Module\Learun.Log\obj\Debug\Learun.Loger.pdb
+D:\项目\中铁山桥\中国知网20171113\中国知网20171113\Learun.Framework V6.1\Learun.Framework.Module\Learun.Log\obj\Debug\Learun.Loger.csprojResolveAssemblyReference.cache
+E:\知网\框架\中国知网20171113\中国知网20171113\Learun.Framework V6.1\Learun.Framework.Module\Learun.Log\bin\Debug\Learun.Loger.dll
+E:\知网\框架\中国知网20171113\中国知网20171113\Learun.Framework V6.1\Learun.Framework.Module\Learun.Log\bin\Debug\Learun.Loger.pdb
+E:\知网\框架\中国知网20171113\中国知网20171113\Learun.Framework V6.1\Learun.Framework.Module\Learun.Log\bin\Debug\log4net.dll
+E:\知网\框架\中国知网20171113\中国知网20171113\Learun.Framework V6.1\Learun.Framework.Module\Learun.Log\bin\Debug\log4net.xml
+E:\知网\框架\中国知网20171113\中国知网20171113\Learun.Framework V6.1\Learun.Framework.Module\Learun.Log\obj\Debug\Learun.Loger.csprojResolveAssemblyReference.cache
+E:\知网\框架\中国知网20171113\中国知网20171113\Learun.Framework V6.1\Learun.Framework.Module\Learun.Log\obj\Debug\Learun.Loger.dll
+E:\知网\框架\中国知网20171113\中国知网20171113\Learun.Framework V6.1\Learun.Framework.Module\Learun.Log\obj\Debug\Learun.Loger.pdb
