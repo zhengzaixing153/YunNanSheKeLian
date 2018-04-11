@@ -1,5 +1,0 @@
-C:\工作区域\LeaRun.敏捷开发框架_2017\project\Learun.Framework V6.1\Learun.Framework.Module\Learun.Util\Learun.Util.Expression\bin\Debug\Learun.Util.Expression.dll
-C:\工作区域\LeaRun.敏捷开发框架_2017\project\Learun.Framework V6.1\Learun.Framework.Module\Learun.Util\Learun.Util.Expression\bin\Debug\Learun.Util.Expression.pdb
-C:\工作区域\LeaRun.敏捷开发框架_2017\project\Learun.Framework V6.1\Learun.Framework.Module\Learun.Util\Learun.Util.Expression\obj\Debug\Learun.Util.Expression.csprojResolveAssemblyReference.cache
-C:\工作区域\LeaRun.敏捷开发框架_2017\project\Learun.Framework V6.1\Learun.Framework.Module\Learun.Util\Learun.Util.Expression\obj\Debug\Learun.Util.Expression.dll
-C:\工作区域\LeaRun.敏捷开发框架_2017\project\Learun.Framework V6.1\Learun.Framework.Module\Learun.Util\Learun.Util.Expression\obj\Debug\Learun.Util.Expression.pdb
